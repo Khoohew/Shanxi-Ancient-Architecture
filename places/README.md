@@ -76,3 +76,5 @@
 - [晉城市第十一批（第一部分）：JC-024—JC-030高平、陵川七處古建](jincheng-batch-11-part-01.md)
 
 - [晉城市第十二批（JC-031—JC-037）：陵川七處古建逐點研究](jincheng-batch-12-part-01.md)
+
+- [晉城市第十三批（JC-038—JC-044）：陵川與沁水七處古建、古堡逐點研究](jincheng-batch-13-part-01.md)
