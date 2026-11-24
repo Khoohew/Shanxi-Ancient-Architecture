@@ -74,3 +74,5 @@
 - [晉城市第十批（第一部分）：高平市七處古建與石窟深度核查](jincheng-batch-10-part-01.md)
 
 - [晉城市第十一批（第一部分）：JC-024—JC-030高平、陵川七處古建](jincheng-batch-11-part-01.md)
+
+- [晉城市第十二批（JC-031—JC-037）：陵川七處古建逐點研究](jincheng-batch-12-part-01.md)
