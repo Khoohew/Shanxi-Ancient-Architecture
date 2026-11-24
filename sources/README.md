@@ -94,3 +94,14 @@
 - 陵川縣人民政府：附城鎮國保點講解與延長開放安排（2024-09-23），含田莊全神廟：[原文](https://www.lczf.gov.cn/xxcj/202409/t20240923_2038343.shtml)
 - 潞城鎮政府：石掌村玉皇廟廟會及建築觀察（2026-08-20）：[原文](https://xxgk.lczf.gov.cn/xzjd/lclcz/fdzdgknr/gzdt/202608/t20260820_2382690.shtml)
 - 中國政府網：第七批全國重點文物保護單位名錄，確認南召文廟：[PDF](https://www.gov.cn/guoqing/2014-07/21/dqpqgzdwwbhdwmd.pdf)
+
+### 晉城市第十三批（JC-038—JC-044）
+- 陵川縣人民政府：《陵川古建》，西溪二仙廟、小會嶺二仙廟、玉泉東嶽廟沿革與建築形制：[原文](https://www.lczf.gov.cn/txlc_5/lcyx_680/lsyg_681/201611/t20161114_1149112.shtml)
+- 晉城市人民政府：西溪二仙廟與晉東南二仙信仰（2024-08-27）：[原文](https://www.jcgov.gov.cn/dtxx/jcdt/202408/t20240827_2026033.shtml)
+- 陵川縣人民政府：西溪二仙廟修繕及2017年重新開放公告：[原文](https://www.lczf.gov.cn/txlc_5/lcyx_680/tslc_29/201712/t20171207_1149525.shtml)
+- 晉城市人民政府：「堡」藏晉城（2026-08-10），窦莊、湘峪古堡建造背景、格局與防禦構造：[原文](https://www.jcgov.gov.cn/dtxx/jcdt/202608/t20260810_2379308.shtml)
+- 沁水縣嘉峰鎮人民政府：太行古堡專題系列之郭壁村（2023-05-10），含院落、城牆、崔府君廟與舞樓：[原文](https://xxgk.qinshui.gov.cn/xzzf/qsjfz/fdzdgknr/gzdt/202305/t20230510_1792519.shtml)
+- 沁水縣人民政府：柳氏民居景區（2026-07-05），府邸沿革、十三院、雕刻碑刻及諮詢電話：[原文](https://www.qinshui.gov.cn/rhqs_418/qsmj/202010/t20201011_1222448.shtml)
+- 沁水縣人民政府：湘峪古堡景區介紹，建成於1634年、瞭望樓及街巷格局：[原文](https://www.qinshui.gov.cn/phone/rhqs_418/qsmj/202010/t20201011_1222446.shtml)
+- 新華社：喚醒「沉睡」的古堡（2024-07-15），湘峪古堡旅遊參觀情況：[原文](https://www.xinhuanet.com/photo/20240715/828a8878610e4c628cf9fa377d94ec90/c.html?page=10)
+- 沁水縣文化和旅遊局：2021年沁水縣文旅工作綜述，窦莊耕讀院、呂祖閣及郭壁崔府君廟修繕記錄：[原文](https://xxgk.qinshui.gov.cn/xzf/qswlj/fdzdgknr/gzdt/202201/t20220114_1540601.shtml)
