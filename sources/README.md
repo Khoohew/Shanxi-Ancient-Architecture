@@ -105,3 +105,21 @@
 - 沁水縣人民政府：湘峪古堡景區介紹，建成於1634年、瞭望樓及街巷格局：[原文](https://www.qinshui.gov.cn/phone/rhqs_418/qsmj/202010/t20201011_1222446.shtml)
 - 新華社：喚醒「沉睡」的古堡（2024-07-15），湘峪古堡旅遊參觀情況：[原文](https://www.xinhuanet.com/photo/20240715/828a8878610e4c628cf9fa377d94ec90/c.html?page=10)
 - 沁水縣文化和旅遊局：2021年沁水縣文旅工作綜述，窦莊耕讀院、呂祖閣及郭壁崔府君廟修繕記錄：[原文](https://xxgk.qinshui.gov.cn/xzf/qswlj/fdzdgknr/gzdt/202201/t20220114_1540601.shtml)
+
+
+### 晉城市第十四批（JC-045—JC-051）
+- 晉城市人民政府：「堡」藏晉城（2026-08-10），皇城相府、郭峪古城及明清古堡建築資料：[原文](https://www.jcgov.gov.cn/dtxx/jcdt/202608/t20260810_2379308.shtml)
+- 陽城縣人民政府：皇城相府介紹，雙城堡格局、陳廷敬家族及內外城功能：[原文](https://www.yczf.gov.cn/yryc/yxyc/201409/t20140908_1102830.shtml)
+- 晉城市人民政府：皇城相府內城崇禎六年（1633）、外城康熙四十二年（1703）資料：[原文](https://www.jcgov.gov.cn/mljc/yzjc/zmjd/200710/t20071024_939425.shtml)
+- 陽城縣人民政府：郭峪城介紹，明代民居、元代湯帝廟、1635年城牆及1640年豫樓：[原文](https://www.yczf.gov.cn/yryc/yxyc/201405/t20140522_1102824.shtml)
+- 陽城縣人民政府：砥洎城介紹，坩堝城牆、丁字巷及防禦系統：[原文](https://www.yczf.gov.cn/mobile/yryc_mobile/ycmp_mobile/202306/t20230615_1809506.shtml)
+- 陽城縣人民政府：砥洎城2026年參觀及保護修繕報道：[2026年5月](https://yczf.gov.cn/xwdt/bmxz/202605/t20260515_2350565.shtml)；[2026年11月](https://www.yczf.gov.cn/mobile/xwdt_mobile/ycxw_mobile/202611/t20261109_2410063.shtml)
+- 陽城縣人民政府：海會寺介紹，隋代創建說、十三層琉璃塔及寺院殿宇：[原文](https://yczf.gov.cn/mobile/yryc_mobile/ycmp_mobile/202308/t20230801_1831659.shtml)
+- 陽城縣人民政府：海會寺歷史、894年及982年賜額、低塔與琉璃塔1561年說：[原文](https://yczf.gov.cn/yryc/yxyc/201409/t20140908_1102831.shtml)
+- 陽城縣人民政府：海會書院景區介紹，922年舍利塔及琉璃塔1565年說：[原文](https://yczf.gov.cn/yryc/ycmp/202108/t20210812_1451292.shtml)
+- 晉城市人民政府：古建築專題，陽城文廟沿革及潤城東嶽廟資料：[原文](https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpbzjc/csmp_gjz/)
+- 國務院／國家林業和草原局政府網：第八批全國重點文物保護單位名錄，陽城文廟：[名錄](https://www.forestry.gov.cn/main/4815/20191016/173000319923859.html)
+- 晉城市人民政府：太岳軍區司令部舊址（文廟）建築與近現代使用史：[原文](https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpbzjc/csmphswh/csmp_hsly/202307/t20230706_1819246.shtml)
+- 晉城新聞專題（園林網轉載）：開福寺獻殿形制及1297年梁題記：[原文轉載](https://gj.yuanlin.com/Html/Detail/2012-6/16009.html)
+- 陽城縣人民政府：潤城東嶽廟現存建築、石雕瑞獸與明代琉璃裝飾：[原文](https://www.yczf.gov.cn/yryc/ycmp/202306/t20230615_1809544.shtml)
+- 陽城縣文旅局提案答覆（2024-09-26），確認縣域國保單位名單：[原文](https://xxgk.yczf.gov.cn/xzf/ycwlj/fdzdgknr/jytianbanli/202409/t20240926_2040692.shtml)
