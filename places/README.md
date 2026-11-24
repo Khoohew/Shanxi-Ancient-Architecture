@@ -80,3 +80,5 @@
 - [晉城市第十三批（JC-038—JC-044）：陵川與沁水七處古建、古堡逐點研究](jincheng-batch-13-part-01.md)
 
 - [晉城市第十四批（JC-045—JC-051）：陽城縣七處古建與古堡逐點研究](jincheng-batch-14-part-01.md)
+
+- [晉城市第十五批（JC-052—JC-058）：陽城、澤州七處古建逐點研究](jincheng-batch-15-part-01.md)
