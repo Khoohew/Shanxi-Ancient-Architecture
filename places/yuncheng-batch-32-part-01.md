@@ -135,7 +135,7 @@ CSV 原始座標為110.95126557E、34.93133205N。公開文保資料提供的常
 **主要來源**
 1. [第六批國保資料：常平關帝廟](https://www.iwenbo.fun/heritage/1866.html)——國保編號、院落布局、祖塔銘文及各殿形制。
 2. [運城市全國重點文物保護單位通覽（轉載運城日報資料）](https://k.sina.com.cn/article_2769582141_a514783d00100o2wb.html)——前朝後寢格局、嘉靖石牌坊、祖塔及聖祖殿沿革。
-3. [常平關帝廟資料彙編](https://wantulu.com/heritage/shanxi/heritage_mrktoсbo730fe2/)——現代景區地址及文保身份補充；地址僅作座標核對參考。
+3. [常平關帝廟資料彙編](https://wantulu.com/heritage/shanxi/heritage_mrktocbo730fe2/)——現代景區地址及文保身份補充；地址僅作座標核對參考。
 
 ---
 
