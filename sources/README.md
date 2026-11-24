@@ -177,3 +177,21 @@
 - 新華社：冶底岱廟2015年修繕及宋金建築資訊：[原文](https://www.xinhuanet.com/politics/2015-02/16/c_1114388003.htm)
 - 周村東嶽廟正殿勘察、碑記年代及保存環境：[《文物鑑定與鑑賞》2024年第7期](https://www.fx361.com/page/2024/0514/23856382.shtml)
 - 晉城市文化和旅遊局：2025年周村東嶽廟安防工程資金資訊：[原文](https://xxgk.jcgov.gov.cn/szfgzbm/jcswhhlyj/fdzdgknr_31403/tadf_wlj/202507/t20250703_2163572.shtml)
+
+
+### 臨汾市第十八批（LF-001—LF-007）
+- 國務院第七批全國重點文物保護單位名錄：郎寨磚塔列唐代；與舊有宋代說法並列核查：[名錄](https://zh.wikisource.org/zh-hans/國務院关于核定并公布第七批全国重点文物保护单位的通知)
+- 郎寨磚塔塔身碑碣、地宮開元通寶、塔身形制及殘存層數：[專業文保資料](https://www.iwenbo.fun/heritage/3317.html)
+- 山西文化資源網：麻衣寺磚塔金大定十七年（1177）建造、塔身佛像與高度資料：[原文](https://www.sxwhzyw.cn/pd516191858.html)
+- 麻衣寺磚塔大定十七年石碣、塔身分層與磚雕細節：[專業文保資料](https://www.iwenbo.fun/index.php/index/heritage/3337.html)
+- 國務院第六批全國重點文物保護單位名錄：師家溝古建築群列清代：[原文](https://zwgk.mct.gov.cn/zfxxgkml/qt/202012/t20201206_918486.html)
+- 山西文化資源網：師家溝乾隆年間起建、31個院落、窯洞民居與聚落格局：[原文](https://www.sxwhzyw.cn/pd557341858.html)
+- 汾西縣電子商務公共服務平台：師家溝院落與聚落格局補充資料：[原文](https://www.yuansite.com/index/Newsinfo/newsinfo?catid=7)
+- 第六批全國重點文物保護單位名錄：老君洞列唐至明：[名錄PDF](https://www.contmusic.com/kyguanwangmanbetx/uploadfile/file/20230731/90e0490ae.pdf)
+- 老君洞老君殿、39塊明代石刻及1561年壁畫資料彙編：[原文](https://bkso.baidu.com/item/老君洞/6010151)
+- 山西省文物局資料：熱留關帝廟宋代創建碑記、院落與正殿斗栱梁架：[原文](https://www.hthtw.com/Info/12494/12629/23581/View.html)
+- 國務院第八批全國重點文物保護單位名錄：[原文](https://www.forestry.gov.cn/main/4815/20191016/173000319923859.html)
+- 熱留關帝廟元、明、清建築形制及保護範圍資料：[專業文保資料](https://www.iwenbo.fun/heritage/4867.html)
+- 新華社／人民政協報：廣勝寺沿革、上寺明代建築、元代水神廟壁畫及飛虹塔：[原文](https://www.xinhuanet.com/politics/2015-07/11/c_128008729.htm)
+- 國家文物局文物保護管理資料所引《山西省洪洞縣文物保護規劃》，分列廣勝上寺明代、水神廟及下寺元代建築：[文件](https://upload.wikimedia.org/wikipedia/commons/a/ab/国家文物局关于进一步做好文物保护单位保护管理相关基础工作的通知（文物保发〔2018〕23号）.pdf)
+- 澎湃新聞：飛虹塔1515年始建、1527年完成及塔身琉璃裝飾：[原文](https://m.thepaper.cn/newsDetail_forward_19612548)
