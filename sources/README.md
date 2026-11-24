@@ -146,3 +146,20 @@
 - 川底佛堂建築資料彙編：1335年重修、正殿形制及金／元構件斷代差異：[資料頁](https://www.iwenbo.fun/index.php/index/heritage/3366.html)
 - 府城關帝廟建築資料彙編：四進院落、乾隆年間重修、關帝殿及三義殿石雕木雕：[資料頁](https://www.iwenbo.fun/heritage/3455.html)
 - 河南師範大學學報論文引用資料：乾隆二十一年（1756）《重修關帝廟碑記》存於府城關帝廟：[論文資料](https://hnsk.cbpt.cnki.net/portal/journal/portal/client/paper/7514f9e8598a57c82ab9b7d5def69dad)
+
+
+### 晉城市第十六批（JC-059—JC-065）
+- 晉城市人民政府：青蓮寺始創北齊天保年間、第三批國保及六尊唐代彩塑：[原文](https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpbzjc/csmp_gjz/202307/t20230707_1820095.shtml)
+- 晉城市人民政府：青蓮寺上下寺沿革、上寺宋代建築與塑像、唐碑：[原文](https://www.jcgov.gov.cn/dtxx/jcdt/202010/t20201030_1257457.shtml)
+- 晉城市人民政府：青蓮寺上下寺參觀介紹及唐塑：[原文](https://jcgov.gov.cn/dtxx/jcdt/202408/t20240822_2023887.shtml)
+- 晉城市文化和旅遊局：2024年部分國保、省保階段性開放公告，僅作歷史線索：[原文](https://xxgk.jcgov.gov.cn/szfgzbm/jcswhhlyj/fdzdgknr_31403/gzdt_31409/202408/t20240802_2016373.shtml)
+- 故宮博物院：《宋金元時代的澤州佛教：佛寺後殿遺存所見》，涉及高都景德寺早期構件：[原文](https://www.dpm.org.cn/journal/256474.html)
+- 《建築史學刊》：〈晉東南地區宋金木構架中的架道設計現象解讀〉：[PDF](https://www.jgcm.ac.cn/jah/cn/article/pdf/preview/10.12329/20969368.2024.02005.pdf)
+- 山西文化資源網：澤州縣國保名錄及時代分類：[原文](https://www.sxwhzyw.cn/pd558772358.html)
+- 國務院：第七批全國重點文物保護單位通知：[原文](https://www.gov.cn/zwgk/2013-05/06/content_2395234.htm)
+- 坪上湯帝廟建築、1501年題記及分期參考：[參考頁](https://www.iwenbo.fun/heritage/3429.html)
+- 史村東嶽廟建築及正殿元代遺構參考：[參考頁](https://www.iwenbo.fun/heritage/3374.html)
+- 水東崔府君廟建築及1293年題記參考：[參考頁](https://www.iwenbo.fun/heritage/3379.html)
+- 壇嶺頭岱廟建築及1180年重修題記參考：[參考頁](https://www.iwenbo.fun/heritage/3351.html)
+- 西頓濟瀆廟建築及1122年施柱題記參考：[參考頁](https://www.iwenbo.fun/heritage/3344.html)
+- 西頓濟瀆廟宣和四年施柱題記、金大定二十八年及清乾隆四十三年重修碑線索：[山西文化資源網](https://www.sxwhzyw.cn/pd547355858.html)
