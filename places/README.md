@@ -70,3 +70,5 @@
 - [晉城市第九批（第一部分）：首8處點位桌面核查](jincheng-batch-09-part-01.md)
 
 - [晉城市第九批（第二部分）：高平市7處點位桌面核查](jincheng-batch-09-part-02.md)
+
+- [晉城市第十批（第一部分）：高平市七處古建與石窟深度核查](jincheng-batch-10-part-01.md)

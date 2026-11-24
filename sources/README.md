@@ -69,3 +69,13 @@
 - 良戶玉虛觀：[高平市人民政府，文旅高平（2025-11-12）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291319.shtml)
 - 清夢觀：[高平市人民政府，文旅高平（2025-10-27）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291269.shtml)
 - 三王村三嵕廟：[高平市人民政府，文旅高平（2025-10-31）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291292.shtml)；[高平市文旅局資料（2022-11-09）](https://xxgk.sxgp.gov.cn/gzbm/gpwlj/fdzdgknr/ggwh/gknr/wbdw_whlyj/202211/t20221109_1697332.shtml)
+
+
+### 晉城高平（第十批）
+- 高平市人民政府／文旅高平：石末宣聖廟：[鏈接](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291317.shtml)
+- 高平市人民政府／文旅高平：團東清化寺：[鏈接](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291331.shtml)
+- 高平市人民政府／文旅高平：西李門二仙廟：[鏈接](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291256.shtml)
+- 高平市人民政府／文旅高平：仙翁廟：[鏈接](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291307.shtml)
+- 高平市人民政府／文旅高平：羊頭山石窟：[鏈接](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291284.shtml)
+- 高平市人民政府／文旅高平：游仙寺：[鏈接](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291203.shtml)
+- 晉城市人民政府：高平古建之美：[鏈接](https://www.jcgov.gov.cn/dtxx/xqdt/202409/t20240910_2032120.shtml)
