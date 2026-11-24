@@ -163,3 +163,17 @@
 - 壇嶺頭岱廟建築及1180年重修題記參考：[參考頁](https://www.iwenbo.fun/heritage/3351.html)
 - 西頓濟瀆廟建築及1122年施柱題記參考：[參考頁](https://www.iwenbo.fun/heritage/3344.html)
 - 西頓濟瀆廟宣和四年施柱題記、金大定二十八年及清乾隆四十三年重修碑線索：[山西文化資源網](https://www.sxwhzyw.cn/pd547355858.html)
+
+
+### 晉城市第十七批（JC-066—JC-071）
+- 晉城市人民政府：澤州縣古建築、薛莊玉皇廟、尹西東嶽廟與冶底岱廟資料：[古建築專題入口](https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpbzjc/csmp_gjz/)
+- 山西文化資源網：澤州縣國保名錄：[原文](https://www.sxwhzyw.cn/pd558772358.html)
+- 國務院：第七批全國重點文物保護單位：[原文](https://www.gov.cn/zwgk/2013-05/06/content_2395234.htm)
+- 國務院：第八批全國重點文物保護單位：[原文](https://www.gov.cn/zhengce/content/2019-10/16/content_5441056.htm)
+- 薛莊玉皇廟建築形制及壁畫：[山西文化資源網](https://www.sxwhzyw.cn/pd583443858.html)；[專業文保資料](https://www.iwenbo.fun/heritage/3380.html)
+- 尹西東嶽廟金代天齊殿、元代玉皇殿及1194年題記：[專業文保資料](https://www.iwenbo.fun/heritage/3343.html)
+- 《山西古建築檔案》：西郜崇壽寺院落、釋迦殿、唐經幢與北魏造像碑：[原文](https://sx.xuexi.cn/local/detail.html?6E9D852F0075DEF5A5B44097C3EBECDA=87F00A429205B9815898C1C477DD851D4F059D73CB87E310A23E8CD27EAC4A01&AC11F3C9EE565CEDC2B7AA9B8914E5A6=81E0083613E7BA24BB6391D5D5C94C79&D33FA6A4AB1778C8=5251F03E8772621A28D4C52289E912B8ABDE2763D02006A2DB1DC15E7C0D7B49&FD0CA7A0771E7C74EA5F38101D0C3A49=1E43BFFBDC9BBC15A3E7A300ECB81016)
+- 晉城市人民政府：澤州岱廟1080年施柱題記及建築群：[原文](https://www.jcgov.gov.cn/dtxx/ztzl/2023ncsmp/jcmpbzjc/csmp_gjz/202307/t20230707_1820100.shtml)
+- 新華社：冶底岱廟2015年修繕及宋金建築資訊：[原文](https://www.xinhuanet.com/politics/2015-02/16/c_1114388003.htm)
+- 周村東嶽廟正殿勘察、碑記年代及保存環境：[《文物鑑定與鑑賞》2024年第7期](https://www.fx361.com/page/2024/0514/23856382.shtml)
+- 晉城市文化和旅遊局：2025年周村東嶽廟安防工程資金資訊：[原文](https://xxgk.jcgov.gov.cn/szfgzbm/jcswhhlyj/fdzdgknr_31403/tadf_wlj/202507/t20250703_2163572.shtml)
