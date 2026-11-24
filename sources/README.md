@@ -49,3 +49,23 @@
 - 關鍵斷代至少有一條足以支持對象和年代的來源；爭議年代並列呈現。
 - 動態開放、票務、預約信息須記錄“覈查日期”，原則上出發前7天重新覈對。
 - 圖片、圖紙、掃描資料應遵守版權；優先鏈接原頁面，不復制整篇文章。
+
+
+### 晉城市第九批（第一部分）
+- 懷覃會館：晉城市文化和旅遊局《關於市八屆人大六次會議第169號建議的答復》（2026-08-07）：[官方來源](https://xxgk.jcgov.gov.cn/szfgzbm/jcswhhlyj/fdzdgknr_31403/tadf_wlj/202608/t20260807_2378917.shtml)
+- 高平崇明寺：[高平市人民政府，文旅高平（2025-10-17）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291192.shtml)
+- 大周村古寺廟建築群：[高平市人民政府，文旅高平（2025-11-04）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291296.shtml)
+- 定林寺：[高平市人民政府，文旅高平（2025-10-22）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291252.shtml)
+- 董峰萬壽宮：[高平市人民政府，文旅高平（2025-11-05）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291299.shtml)；[晉城市中介超市數字化保護項目（2026-03-17）](https://zwfw.jcgov.gov.cn/Portal/Portal/Portal/info?id=9771&type=gg)
+- 王報二郎廟：[高平市人民政府，文旅高平（2025-10-25）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291268.shtml)；[晉城市文化和旅遊局階段性開放公告（2024-08-02）](https://xxgk.jcgov.gov.cn/szfgzbm/jcswhhlyj/fdzdgknr_31403/gzdt_31409/202408/t20240802_2016373.shtml)
+- 嘉祥寺：[高平市人民政府，文旅高平（2025-11-03）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291293.shtml)
+- 鐵佛寺：[高平市人民政府，文旅高平（2025-11-18）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291338.shtml)；[高平市文化和旅遊局彩塑資料（2024-09-19）](https://xxgk.sxgp.gov.cn/gzbm/gpwlj/fdzdgknr/ggwh/gknr/wbdw_whlyj/202409/t20240919_2036811.shtml)
+
+
+### 晉城市第九批（第二部分）
+- 古中廟：[高平市人民政府，文旅高平（2025-10-28）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291273.shtml)
+- 姬氏民居：[高平市人民政府，文旅高平（2025-10-16）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291190.shtml)；[修繕後報道（2025-12-16）](https://sxgp.gov.cn/zjgp/fjms_425/202512/t20251216_2297531.shtml)
+- 建南濟瀆廟：[高平市人民政府，文旅高平（2025-11-08）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291316.shtml)；[高平市文旅局2023年度決算資料](https://xxgk.sxgp.gov.cn/gzbm/gpwlj/fdzdgknr/gzdt/202411/P020241105379226661800.pdf)
+- 良戶玉虛觀：[高平市人民政府，文旅高平（2025-11-12）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291319.shtml)
+- 清夢觀：[高平市人民政府，文旅高平（2025-10-27）](https://sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291269.shtml)
+- 三王村三嵕廟：[高平市人民政府，文旅高平（2025-10-31）](https://www.sxgp.gov.cn/zjgp/fjms_425/202511/t20251128_2291292.shtml)；[高平市文旅局資料（2022-11-09）](https://xxgk.sxgp.gov.cn/gzbm/gpwlj/fdzdgknr/ggwh/gknr/wbdw_whlyj/202211/t20221109_1697332.shtml)
