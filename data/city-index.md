@@ -526,6 +526,6 @@
 | [永濟萬固寺 -運城市永濟市鹿峪村勝利莊](../places/yuncheng-batch-34-part-01.md#yc-073) | 第八批國保 |
 | [廣仁王廟 -運城市芮城縣中龍泉村](../places/yuncheng-batch-34-part-01.md#yc-074) | 第五批國保 |
 | [清涼寺 -運城市芮城縣東昇村南](../places/yuncheng-batch-34-part-01.md#yc-075) | 第五批國保 |
-| 巷口壽聖寺磚塔 -運城市芮城縣巷口村西 | 未標註 |
-| 芮城城隍廟 -運城市芮城縣 | 未標註 |
+| [巷口壽聖寺磚塔 -運城市芮城縣巷口村西](../places/yuncheng-batch-35-part-01.md#yc-076) | 第七批國保 |
+| [芮城城隍廟 -運城市芮城縣](../places/yuncheng-batch-35-part-01.md#yc-077) | 第五批國保 |
 | [永樂宮 - 山西省運城市芮城縣](../places/yongle-palace.md) | 未標註 |

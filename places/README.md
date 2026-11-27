@@ -70,7 +70,7 @@
 - [第 23 批｜臨汾](linfen-batch-23-part-01.md)
 - [第 24 批｜臨汾—運城](linfen-yuncheng-batch-24-part-01.md)
 
-### 第 25—34 批：運城
+### 第 25—35 批：運城
 - [第 25 批｜YC-006—YC-012](yuncheng-batch-25-part-01.md)
 - [第 26 批｜YC-013—YC-019](yuncheng-batch-26-part-01.md)
 - [第 27 批｜YC-020—YC-026](yuncheng-batch-27-part-01.md)
@@ -81,6 +81,7 @@
 - [第 32 批｜YC-055—YC-061](yuncheng-batch-32-part-01.md)
 - [第 33 批｜YC-062—YC-068](yuncheng-batch-33-part-01.md)
 - [第 34 批｜YC-069—YC-075](yuncheng-batch-34-part-01.md)
+- [第 35 批｜YC-076—YC-078](yuncheng-batch-35-part-01.md)
 
 ## 檔案維護說明
 
