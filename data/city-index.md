@@ -230,12 +230,12 @@
 | [介休五嶽廟(暫停開放) -晉中市介休市](../places/jinzhong-batch-07.md#jz-049) | 第六批國保 |
 | [祆神樓 -晉中市介休市](../places/jinzhong-batch-07.md#jz-050) | 第四批國保 |
 | [張壁古堡 -晉中市介休市張壁村](../places/jinzhong-batch-07.md#jz-051) | 第六批國保 |
-| [介休東嶽廟 -晉中市介休市小勒村](../places/jinzhong-batch-07.md#jz-052) | 地方級別待核 |
+| [介休東嶽廟 -晉中市介休市小勒村](../places/jinzhong-batch-07.md#jz-052) | 第六批國保 |
 | [靈石后土廟 -晉中市靈石縣靜升村西](../places/jinzhong-batch-07.md#jz-053) | 第六批國保 |
 | [王家大院 - 晉中市靈石縣](../places/jinzhong-batch-07.md#jz-054) | 第六批國保 |
 | [資壽寺 -晉中市靈石縣蘇溪村西側](../places/jinzhong-batch-07.md#jz-055) | 第五批國保 |
 | [迴鑾寺 -晉中市介休市興地村](../places/jinzhong-batch-07.md#jz-056) | 第六批國保 |
-| [雲峯寺石佛殿 -晉中市介休市興地村東南綿山](../places/jinzhong-batch-07.md#jz-057) | 級別待核 |
+| [雲峯寺石佛殿 -晉中市介休市興地村東南綿山](../places/jinzhong-batch-07.md#jz-057) | 第七批國保 |
 | [晉祠廟 -晉中市靈石縣馬和村北](../places/jinzhong-batch-07.md#jz-058) | 第六批國保 |
 | [靜升文廟 - 晉中市靈石縣](../places/jinzhong-batch-07.md#jz-059) | 第七批國保 |
 
@@ -246,16 +246,16 @@
 | 景點 | 文物保護級別 |
 |---|---|
 | [武鄉福源院 -長治市武鄉縣候良村](../places/changzhi-batch-08.md#cz-001) | 第八批國保 |
-| [洪濟院 - 長治市武鄉縣東良村](../places/changzhi-batch-08.md#cz-002) | 未標註 |
+| [洪濟院 - 長治市武鄉縣東良村](../places/changzhi-batch-08.md#cz-002) | 第五批國保 |
 | [武鄉大雲寺 -長治市武鄉縣故城鎮](../places/changzhi-batch-08.md#cz-003) | 第五批國保 |
-| [會仙觀 -長治市武鄉縣監漳村西](../places/changzhi-batch-08.md#cz-004) | 未標註 |
-| [南涅水洪教院 - 長治市沁縣南涅水村](../places/changzhi-batch-08.md#cz-005) | 未標註 |
+| [會仙觀 -長治市武鄉縣監漳村西](../places/changzhi-batch-08.md#cz-004) | 第五批國保 |
+| [南涅水洪教院 - 長治市沁縣南涅水村](../places/changzhi-batch-08.md#cz-005) | 第七批國保 |
 | [武鄉真如寺 -長治市武鄉縣土和村](../places/changzhi-batch-08.md#cz-006) | 未標註 |
-| [南涅水石刻 - 長治市沁縣二郎山](../places/changzhi-batch-08.md#cz-007) | 未標註 |
+| [南涅水石刻 - 長治市沁縣二郎山](../places/changzhi-batch-08.md#cz-007) | 第七批國保 |
 | [普照寺大殿 -長治市沁縣開村北](../places/changzhi-batch-08.md#cz-008) | 第六批國保 |
-| [沁縣大雲院 - 山西省長治市沁縣郭村](../places/changzhi-batch-08.md#cz-009) | 未標註 |
-| [靈空山聖壽寺 -長治市沁源縣](../places/changzhi-batch-08.md#cz-010) | 未標註 |
-| [先師和尚舍利塔 -長治市屯留區馬背村北老爺山](../places/changzhi-batch-08.md#cz-011) | 未標註 |
+| [沁縣大雲院 - 山西省長治市沁縣郭村](../places/changzhi-batch-08.md#cz-009) | 第五批國保 |
+| [靈空山聖壽寺 -長治市沁源縣](../places/changzhi-batch-08.md#cz-010) | 第七批國保 |
+| [先師和尚舍利塔 -長治市屯留區馬背村北老爺山](../places/changzhi-batch-08.md#cz-011) | 第七批國保 |
 | [寶峯寺 -長治市屯留區姬村西](../places/changzhi-batch-08.md#cz-012) | 第六批國保 |
 | [石室蓬萊宮 - 長治市屯留區石室村](../places/changzhi-batch-08.md#cz-013) | 未標註 |
 | [襄垣五龍廟 -長治市襄垣縣古韓鎮城北](../places/changzhi-batch-08.md#cz-014) | 國保（批次待核） |
@@ -265,15 +265,15 @@
 | [郭莊昭澤王廟 -長治市襄垣縣郭莊村西北](../places/changzhi-batch-08.md#cz-018) | 國保（批次待核） |
 | [襄垣文廟 - 長治市襄垣縣](../places/changzhi-batch-08.md#cz-019) | 國保（批次待核） |
 | [西下莊昭澤王廟 - 長治市黎城縣西下莊村北](../places/changzhi-batch-08.md#cz-020) | 第八批國保 |
-| [辛村天齊王廟 -長治市黎城縣辛村東](../places/changzhi-batch-08.md#cz-021) | 未標註 |
+| [辛村天齊王廟 -長治市黎城縣辛村東](../places/changzhi-batch-08.md#cz-021) | 第七批國保 |
 | [長寧大廟 - 長治市黎城縣長寧村](../places/changzhi-batch-08.md#cz-022) | 未標註 |
-| [黎城城隍廟 -長治市黎城縣](../places/changzhi-batch-08.md#cz-023) | 未標註 |
+| [黎城城隍廟 -長治市黎城縣](../places/changzhi-batch-08.md#cz-023) | 第七批國保 |
 | [東邑龍王廟 - 長治市潞城區東邑村北](../places/changzhi-batch-08.md#cz-024) | 第六批國保 |
 | [李莊文廟 - 長治市潞城區](../places/changzhi-batch-08.md#cz-025) | 第七批國保 |
 | [李莊村武廟 - 長治市潞城區](../places/changzhi-batch-08.md#cz-026) | 第七批國保 |
 | [潦河頭關帝廟 - 長治市潞城區潦河頭村東](../places/changzhi-batch-08.md#cz-027) | 第八批國保 |
 | [原起寺 - 長治市潞城區辛安村東](../places/changzhi-batch-08.md#cz-028) | 國保（批次待核） |
-| [北甘泉聖母廟 -長治市平順縣北甘泉村](../places/changzhi-batch-08.md#cz-029) | 未標註 |
+| [北甘泉聖母廟 -長治市平順縣北甘泉村](../places/changzhi-batch-08.md#cz-029) | 第七批國保 |
 | [北社大禹廟 -長治市平順縣北社村](../places/changzhi-batch-08.md#cz-030) | 第七批國保 |
 | [北社三嵕廟 -長治市平順縣](../places/changzhi-batch-08.md#cz-031) | 第七批國保 |
 | [淳化寺 -長治市平順縣](../places/changzhi-batch-08.md#cz-032) | 未標註 |
@@ -288,33 +288,33 @@
 | [西青北大禹廟 - 長治市平順縣西青北村](../places/changzhi-batch-08.md#cz-041) | 第七批國保 |
 | [西社衛公廟 -長治市平順縣西社村東](../places/changzhi-batch-08.md#cz-042) | 第八批國保 |
 | [夏禹神祠 - 長治市平順縣](../places/changzhi-batch-08.md#cz-043) | 第六批國保 |
-| [關村炎帝廟 -長治市潞州區關村](../places/changzhi-batch-08.md#cz-044) | 未標註 |
+| [關村炎帝廟 -長治市潞州區關村](../places/changzhi-batch-08.md#cz-044) | 第七批國保 |
 | [觀音堂(暫停開放) -長治市潞州區梁家莊村東](../places/changzhi-batch-08.md#cz-045) | 第五批國保 |
 | [潞安府城隍廟 -長治市潞州區](../places/changzhi-batch-08.md#cz-046) | 第五批國保 |
 | [潞安府衙 - 長治市潞州區](../places/changzhi-batch-08.md#cz-047) | 第六批國保 |
-| [馬廠崇教寺 -長治市潞州區故驛村東北](../places/changzhi-batch-08.md#cz-048) | 未標註 |
+| [馬廠崇教寺 -長治市潞州區故驛村東北](../places/changzhi-batch-08.md#cz-048) | 第七批國保 |
 | [三嵕廟 -長治市壺關縣南陽戶村北](../places/changzhi-batch-08.md#cz-049) | 未標註 |
 | [真澤二仙宮 -長治市壺關縣神郊村東](../places/changzhi-batch-08.md#cz-050) | 國保（批次待核） |
-| [莊頭天仙廟 -長治市壺關縣莊頭村東](../places/changzhi-batch-08.md#cz-051) | 未標註 |
-| [北和炎帝廟 - 長治市上黨區北和村西](../places/changzhi-batch-08.md#cz-052) | 未標註 |
+| [莊頭天仙廟 -長治市壺關縣莊頭村東](../places/changzhi-batch-08.md#cz-051) | 第七批國保 |
+| [北和炎帝廟 - 長治市上黨區北和村西](../places/changzhi-batch-08.md#cz-052) | 第七批國保 |
 | [長治玉皇觀 - 長治市上黨區南宋村](../places/changzhi-batch-08.md#cz-053) | 第六批國保 |
 | [上黨西巖寺塔-長治市上黨區桑梓一村村委院內](../places/changzhi-batch-08.md#cz-054) | 第八批國保 |
 | [長春玉皇廟 - 長治市上黨區長春村](../places/changzhi-batch-08.md#cz-055) | 第八批國保 |
-| [正覺寺 -長治市上黨區看寺村](../places/changzhi-batch-08.md#cz-056) | 未標註 |
-| [關村炎帝廟 - 長治市潞州區關村](../places/changzhi-batch-08.md#cz-057) | 未標註 |
+| [正覺寺 -長治市上黨區看寺村](../places/changzhi-batch-08.md#cz-056) | 第五批國保 |
+| [關村炎帝廟 - 長治市潞州區關村](../places/changzhi-batch-08.md#cz-057) | 第七批國保 |
 | [布村玉皇廟(暫停開放) - 長治市長子縣布村北](../places/changzhi-batch-08.md#cz-058) | 第七批國保 |
 | [崇慶寺 - 長治市長子縣](../places/changzhi-batch-08.md#cz-059) | 第四批國保 |
-| [大中汗三嵕廟 - 長治市長子縣踞村村北](../places/changzhi-batch-08.md#cz-060) | 未標註 |
+| [大中汗三嵕廟 - 長治市長子縣踞村村北](../places/changzhi-batch-08.md#cz-060) | 第七批國保 |
 | [法興寺- 山西省長治市長子縣崔莊村](../places/changzhi-batch-08.md#cz-061) | 第三批國保 |
-| [韓坊堯王廟 -長治市長子縣韓坊村](../places/changzhi-batch-08.md#cz-062) | 未標註 |
+| [韓坊堯王廟 -長治市長子縣韓坊村](../places/changzhi-batch-08.md#cz-062) | 第七批國保 |
 | [前萬戶湯王廟 -長治市長子縣前萬戶村](../places/changzhi-batch-08.md#cz-063) | 第七批國保 |
 | [天王寺 -長治市長子縣](../places/changzhi-batch-08.md#cz-064) | 第六批國保 |
 | [下霍護國靈貺王廟 -長治市長子縣下霍村南](../places/changzhi-batch-08.md#cz-065) | 第七批國保 |
 | [小張碧雲寺 -長治市長子縣小張村](../places/changzhi-batch-08.md#cz-066) | 第七批國保 |
-| [義合三教堂 - 長治市長子縣義合村](../places/changzhi-batch-08.md#cz-067) | 未標註 |
-| [長子崔府君廟 - 山西省長治市長子縣](../places/changzhi-batch-08.md#cz-068) | 未標註 |
+| [義合三教堂 - 長治市長子縣義合村](../places/changzhi-batch-08.md#cz-067) | 第七批國保 |
+| [長子崔府君廟 - 山西省長治市長子縣](../places/changzhi-batch-08.md#cz-068) | 第七批國保 |
 | [長子文廟大成殿 - 長治市長子縣](../places/changzhi-batch-08.md#cz-069) | 第八批國保 |
-| [中漳伏羲廟 -長治市長子縣中漳村東南](../places/changzhi-batch-08.md#cz-070) | 未標註 |
+| [中漳伏羲廟 -長治市長子縣中漳村東南](../places/changzhi-batch-08.md#cz-070) | 第七批國保 |
 
 ## 晉城市（71處）
 
