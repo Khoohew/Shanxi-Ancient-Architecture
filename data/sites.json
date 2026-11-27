@@ -8837,15 +8837,15 @@
       "coordinate_reference": "Google Earth KML（原始座標基準與轉換參數待核實）",
       "source_file": "Bilibili 影片 BV12eYXeTE2A",
       "source_url": "https://www.bilibili.com/video/BV12eYXeTE2A",
-      "dating_status": "待覈實",
-      "construction_period": null,
-      "founding_period": null,
-      "heritage_level": null,
+      "dating_status": "部分覈實",
+      "construction_period": "磚塔：北宋熙寧八年（1075）創建，明清重建（通行說法，題記未核）；八角十三層仿木樓閣式",
+      "founding_period": "北宋熙寧八年（1075）；另有旅遊資料稱寺創建於東漢永平十年（67），無可靠來源，不採信",
+      "heritage_level": "第七批全國重點文物保護單位（2013）；1996年曾公布為省級文物保護單位",
       "access_hint": null,
       "access_checked_at": null,
-      "source_confidence": "C-線索",
+      "source_confidence": "B",
       "google_maps_search_url": "https://www.google.com/maps/search/?api=1&query=34.70292041,110.69072314",
-      "notes": "原始地圖標記。朝代、文物級別、開放情況和具體參觀權限須以可靠來源及出發前核實爲準。"
+      "notes": "芮城縣巷口村「塔寺」磚塔，八角十三層，高約46米，仿木構磚檐，塔內存宋代壁畫。依據：運城市人民政府網站頁面 https://www.yuncheng.gov.cn/home/doc/2021/09/13/140261.shtml（覆核2026-11-27）。層數各來源不一，座標與官方位置對應未驗證。 詳細資料見 places/yuncheng-batch-35-part-01.md#yc-076；開放狀態須另行實時覈查。"
     },
     {
       "id": "YC-077",
