@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""由 data/sites.csv 生成 docs/index.html（給人瀏覽）與 data/sites-simple.csv（精簡表）。
+"""繁簡對照表 tools/t2s_map.json 取自 LibreOffice 字元級轉換表（已排除乾、余、祇等易誤轉字）。
+由 data/sites.csv 生成 docs/index.html（給人瀏覽）與 data/sites-simple.csv（精簡表）。
 用法：python3 tools/build_site.py"""
 import csv, json, re
 R = 'https://github.com/Khoohew/Shanxi-Ancient-Architecture/blob/main/'
@@ -28,6 +29,8 @@ with open('data/sites-simple.csv', 'w', encoding='utf-8', newline='') as f:
     for s in sites:
         w.writerow([s['id'], s['city'], s['name'], s['era'], s['level'], s['status'], s['map'], s['dossier']])
 html = open('tools/site_template.html', encoding='utf-8').read()
+m = json.load(open('tools/t2s_map.json', encoding='utf-8'))
+html = html.replace('__TK__', ''.join(m)).replace('__TV__', ''.join(m.values()))
 html = html.replace('__DATA__', json.dumps({'cities': cities, 'sites': sites}, ensure_ascii=False).replace('</', '<\\/'))
 open('docs/index.html', 'w', encoding='utf-8').write(html)
 print(len(sites), 'sites', len(cities), 'cities')
