@@ -7,7 +7,7 @@
 @media(prefers-color-scheme:dark){:root{--bg:#1c1917;--fg:#ece6df;--mut:#a39a90;--card:#26221f;--line:#3a342f;--acc:#e0866f;--ok:#7fc08e;--warn:#e0b25a}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,"PingFang TC","Noto Sans TC","Microsoft JhengHei",sans-serif}
 .w{max-width:860px;margin:0 auto;padding:20px 16px 60px}
-h1{margin:.2em 0 .1em;font-size:1.6rem}.sub{color:var(--mut);margin:0 0 14px;font-size:.92rem}
+.title-row{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}h1{margin:.2em 0 .1em;font-size:1.6rem}.credit{color:var(--mut);font-size:.76rem;letter-spacing:.02em;opacity:.82;white-space:nowrap}.sub{color:var(--mut);margin:0 0 14px;font-size:.92rem}
 #q{width:100%;padding:11px 14px;font-size:1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}
 .bar{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 16px;align-items:center}
 .bar button{padding:6px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);cursor:pointer}
@@ -31,7 +31,7 @@ details.site>summary::-webkit-details-marker{display:none}
 .hide{display:none}
 details.more{margin-top:10px;border:1px solid var(--line);border-radius:8px}details.more>summary{padding:8px 12px;cursor:pointer;color:var(--acc);font-size:.9rem}.md{padding:0 12px 10px;font-size:.88rem}.md h5{margin:.9em 0 .2em;font-size:.92rem}.md p,.md li{margin:.25em 0}.md ul{padding-left:1.2em;margin:.2em 0}.md table{border-collapse:collapse;font-size:.82rem;display:block;overflow-x:auto}.md td{border:1px solid var(--line);padding:2px 6px}.md blockquote{margin:.4em 0;padding-left:.7em;border-left:3px solid var(--line);color:var(--mut)}
 </style></head><body><div class="w">
-<h1>山西古建檔案庫</h1>
+<div class="title-row"><h1>山西古建檔案庫</h1><span class="credit">By 邱少華 &amp; ChatGPT &amp; Claude</span></div>
 <p class="sub">449 處古建築與遺存・按城市展開・點景點看年代、級別、看點，並一鍵在地圖定位</p>
 <input id="q" type="search" placeholder="搜尋景點、朝代、縣名（如：元代、平順、佛光寺）" autocomplete="off">
 <div class="bar"><button id="sc" title="繁體／簡體切換">简</button><button id="ex">全部展開城市</button><button id="co">全部收起</button><span class="sub" id="rs"></span></div>
