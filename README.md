@@ -13,6 +13,7 @@
 | 按城市查看地圖 | [城市 KML 索引](data/city-index.md) |
 | 查閱古建逐點研究 | [古建研究檔案索引](places/README.md) |
 | 研究進度與下一批 | [研究進度](research-progress.md) |
+| 尚待核實的點位與缺口 | [待核清單](data/pending-verification.md) |
 | 資料欄位說明 | [資料欄位說明](data/data-dictionary.md) |
 | 資料來源與研究規範 | [資料來源與研究規範](sources/README.md) |
 | Google My Maps 導入 | [Google My Maps 導入指南](maps/google-mymaps.md) |
