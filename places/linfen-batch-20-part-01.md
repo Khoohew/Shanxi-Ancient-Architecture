@@ -1,7 +1,22 @@
 # 臨汾第二十批：LF-015—LF-021 逐點研究
 
+<!-- toc:start -->
+<details open><summary><b>本檔景點目錄（7 處）</b></summary>
+
+- [LF-015　霍州觀音廟](#lf-015)
+- [LF-016　霍州祝聖寺](#lf-016)
+- [LF-017　霍州州署大堂](#lf-017)
+- [LF-018　東羊后土廟](#lf-018)
+- [LF-019　牛王廟戲台](#lf-019)
+- [LF-020　鐵佛寺](#lf-020)
+- [LF-021　王曲東嶽廟](#lf-021)
+
+</details>
+<!-- toc:end -->
+
 > 本批依原始 CSV 順序整理七處。座標欄完全保留原始值；公開地圖座標可能採 GCJ-02 等不同基準，不能直接以數字差異判定點位錯誤。桌面資料核對不等於現場測繪或開放核驗。
 
+<a id="lf-015"></a>
 ## LF-015 霍州觀音廟
 
 - **位置**：臨汾市霍州市開元街道趙家莊村。
@@ -16,6 +31,7 @@
 - [霍州觀音廟建築與沿革資料](https://www.fjdh.cn/ffzt/fjhy/ahsy2013/04/153210228971.html)
 - [高德地圖地點資料](https://map.gaode.com/place/B0FFFEQNE8)
 
+<a id="lf-016"></a>
 ## LF-016 霍州祝聖寺
 
 - **位置**：霍州市城內前進街。
@@ -29,6 +45,7 @@
 - [霍州祝聖寺文物資料](https://www.iwenbo.fun/heritage/4849.html)
 - [高德地圖地點資料](https://www.amap.com/place/B0FFFEQNMK)
 
+<a id="lf-017"></a>
 ## LF-017 霍州州署大堂
 
 - **位置**：霍州市城內東大街。
@@ -42,6 +59,7 @@
 - [霍州州署大堂文物資料](https://www.iwenbo.fun/index.php/index/heritage/632.html)
 - [霍州署地理與建築資料](https://zh.wikipedia.org/wiki/霍州署)
 
+<a id="lf-018"></a>
 ## LF-018 東羊后土廟
 
 - **位置**：臨汾市堯都區土門鎮東羊村。
@@ -57,6 +75,7 @@
 - [澎湃新聞：元大德七年的那一場地震](https://m.thepaper.cn/detail/28193404)
 - [東羊后土廟建築資料](https://www.fjdh.cn/ffzt/fjhy/ahsy2013/04/151743228954.html)
 
+<a id="lf-019"></a>
 ## LF-019 牛王廟戲台
 
 - **位置**：臨汾市堯都區魏村鎮魏村。
@@ -71,6 +90,7 @@
 - [澎湃新聞：行走平陽，探尋臨汾古戲台歷史遺存](https://m.thepaper.cn/newsDetail_forward_33026494)
 - [中國傳統觀演建築研究 PDF](https://bjjz.cbpt.cnki.net/portal/journal/portal//client/paper/preview?cache=false&filePath=files%2Fbjjz%2Fhtmlfulltext%2Fpdf%2F%2F1997%2F01%2F%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E2%80%9C%E8%A7%82%E6%BC%94%E5%BB%BA%E7%AD%91%E2%80%9D%E7%9A%84%E5%8F%91%E5%B1%95%E5%AC%97%E5%变_%E7%8E%8B%E5%85%B6%E6%98%8E.pdf)
 
+<a id="lf-020"></a>
 ## LF-020 鐵佛寺
 
 - **位置**：臨汾市堯都區鼓樓西街海子邊巷。
@@ -87,6 +107,7 @@
 - [臨汾大雲寺（鐵佛寺）沿革](https://www.fjdh.cn/ffzt/fjhy/ahsy2013/04/160529229007.html)
 - [高德地圖地點資料](https://www.amap.com/place/B0KKM5JZ3Q)
 
+<a id="lf-021"></a>
 ## LF-021 王曲東嶽廟
 
 - **位置**：臨汾市堯都區吳村鎮王曲村。
