@@ -29,7 +29,6 @@ details.site>summary::-webkit-details-marker{display:none}
 .b{font-size:.75rem;padding:1px 7px;border-radius:6px;border:1px solid var(--line);color:var(--mut)}
 .warn{color:var(--warn)}footer{margin-top:28px;color:var(--mut);font-size:.82rem}footer a{color:var(--acc)}
 .hide{display:none}
-details.more{margin-top:10px;border:1px solid var(--line);border-radius:8px}details.more>summary{padding:8px 12px;cursor:pointer;color:var(--acc);font-size:.9rem}.md{padding:0 12px 10px;font-size:.88rem}.md h5{margin:.9em 0 .2em;font-size:.92rem}.md p,.md li{margin:.25em 0}.md ul{padding-left:1.2em;margin:.2em 0}.md table{border-collapse:collapse;font-size:.82rem;display:block;overflow-x:auto}.md td{border:1px solid var(--line);padding:2px 6px}.md blockquote{margin:.4em 0;padding-left:.7em;border-left:3px solid var(--line);color:var(--mut)}
 </style></head><body><div class="w">
 <h1>山西古建檔案庫</h1>
 <p class="sub">449 處古建築與遺存・按城市展開・點景點看年代、級別、看點，並一鍵在地圖定位</p>
@@ -51,7 +50,7 @@ if(s.found)h+=`<p><span class="k">創建　</span>${esc(s.found)}</p>`;
 if(s.level)h+=`<p><span class="k">級別　</span>${esc(s.level)}</p>`;
 if(s.note)h+=`<p><span class="k">看點　</span>${esc(s.note)}</p>`;
 if(s.access)h+=`<p class="warn"><span class="k">開放提示　</span>${esc(s.access)}（未核實，出發前請確認）</p>`;
-h+=`<p><span class="b">${esc(s.status)}</span> <span class="b">證據 ${esc(s.conf)}</span></p>${s.hd?`<details class="more" data-id="${s.id}"><summary>研究詳情（形制・年代爭議・來源）</summary><div class="md">載入中…</div></details>`:''}<div class="go"><a class="p" href="${esc(s.map)}" target="_blank" rel="noopener">📍 在地圖定位</a>${s.dossier?`<a href="${esc(s.dossier)}" target="_blank" rel="noopener">研究檔案</a>`:''}</div></div></details>`;return h}
+h+=`<p><span class="b">${esc(s.status)}</span> <span class="b">證據 ${esc(s.conf)}</span></p><div class="go"><a class="p" href="${esc(s.map)}" target="_blank" rel="noopener">📍 在地圖定位</a>${s.dossier?`<a href="${esc(s.dossier)}" target="_blank" rel="noopener">研究檔案</a>`:''}</div></div></details>`;return h}
 const TK='__TK__',TV='__TV__',M={};for(let i=0;i<TK.length;i++)M[TK[i]]=TV[i];
 const conv=s=>s.replace(/[\u4e00-\u9fff]/g,c=>M[c]||c);
 const app=document.getElementById('app');
@@ -64,11 +63,6 @@ rs.textContent=v?`找到 ${n} 處`:''};
 q.addEventListener('input',filt);
 document.getElementById('ex').onclick=()=>document.querySelectorAll('details.city').forEach(c=>c.open=true);
 document.getElementById('co').onclick=()=>document.querySelectorAll('details.city').forEach(c=>c.open=false);
-const dc={};
-function loadD(pre){return dc[pre]||(dc[pre]=fetch('d/'+pre+'.json').then(r=>{if(!r.ok)throw 0;return r.json()}))}
-app.addEventListener('toggle',e=>{const d=e.target;if(!d.classList||!d.classList.contains('more')||!d.open||d.dataset.ok)return;
-const id=d.dataset.id,box=d.querySelector('.md');
-loadD(id.split('-')[0]).then(j=>{box.innerHTML=j[id]||'暫無詳情';d.dataset.ok=1;if(simp)apply()}).catch(()=>{box.innerHTML='無法載入（本機直接開檔案時不支援），請用「研究檔案」連結。'})},true);
 const orig=new Map(),ph=q.placeholder;
 function apply(){const w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let n;
 while(n=w.nextNode()){if(n.parentNode.closest('script,style'))continue;const e=orig.get(n);
